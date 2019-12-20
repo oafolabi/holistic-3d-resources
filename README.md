@@ -24,6 +24,10 @@ A list of papers and resources for holistic 3D reconstruction.
 | [Raster-to-Vector](https://github.com/art-programmer/FloorplanTransformation) | 870 | - | - | floorplan |
 | [3RScan](https://waldjohannau.github.io/RIO/) | 478 | - | - | objects |
 | [Structured3D](https://structured3d-dataset.org/) | 3,500 | 21,835 | 196,515 | pritimitves (points/lines/planes) and relationships, 3D object instance bounding boxes|
+| [SceneNN]() |- |- |- |- |
+| [ScanNet]() |- |- |- | -|
+| [ICL-NUIM]() |- |- |- |- |
+
 
 ### Object level
 
@@ -34,6 +38,8 @@ A list of papers and resources for holistic 3D reconstruction.
 | [ANSI Mechanical Component](https://github.com/lingxiaoli94/SPFN) | - | 504 | 17,197 | plane, sphere, cylinder, cone, etc.| |
 | [PartNet](https://cs.stanford.edu/%7Ekaichun/partnet/) | - | 24 | 26,671 | fine-grained, instance-level, and hierarchical 3D parts | derived from ShapeNet |
 | [PartNet-Symh](https://github.com/FoggYu/PartNet_symh/) | - | 24 | 22,369 | Symmetry hierarchical 3D parts | derived from PartNet |
+| [ScanObjectNN]() |- |- |-|- |- |
+| [Redwood]() | - | -|-| -| -|
 
 ### Datasets examples
 [PlaneRCNN](https://github.com/NVlabs/planercnn)
